@@ -15,9 +15,10 @@ Maintainability – Makes it easier to update and improve software.it also make 
 Identify and describe at least three key milestones in the evolution of software engineering.
  a) The 1968 NATO Conference on Software Engineering
 It is considered as the birth of software engineering,It addressed the software crisis, where software projects were failing due to poor planning, lack of structure, and increasing complexity. It emphasized the need for systematic engineering principles in software development.
+
 2. The Rise of Structured Programming 
  It introduced by computer scientists like Edsger Dijkstra, structured programming replaced chaotic "spaghetti code" with a disciplined approach using loops, conditionals, and functions.This improved code readability, maintainability, and debugging, leading to more reliable software systems.
-3. The Agile development 
+3. The Agile Manifesto
 Agile development emerged as a response to the inefficiencies of traditional Waterfall models, emphasizing flexibility, collaboration, and iterative development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -154,6 +155,6 @@ Clear prompt
  Who is the current president of Kenya?
  
 Clarity: The clear prompt specifies what is being asked (the current president).
-Specific Details: States the name of the country (current president of akaenya).
+Specific Details: States the name of the country (current president of kenya).
 Concise: The additional details provide a clear statement without being overly complicated
  
