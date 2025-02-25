@@ -13,7 +13,7 @@ Maintainability – Makes it easier to update and improve software.it also make 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- a) The 1968 NATO Conference on Software Engineering
+ 1. The 1968 NATO Conference on Software Engineering
 It is considered as the birth of software engineering,It addressed the software crisis, where software projects were failing due to poor planning, lack of structure, and increasing complexity. It emphasized the need for systematic engineering principles in software development.
 
 2. The Rise of Structured Programming 
@@ -22,16 +22,17 @@ It is considered as the birth of software engineering,It addressed the software 
 Agile development emerged as a response to the inefficiencies of traditional Waterfall models, emphasizing flexibility, collaboration, and iterative development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1.planning - identify the software requirement ,planning and identifying objectives.
-2.requirement analysis - identify the final user specification. 
-3.design - building the framework and designing the software. 
-4.coding and implementstion- coding using programming languages 
+1. planning - identify the software requirement ,planning and identifying objectives.
+2. requirement analysis - identify the final user specification. 
+3. design - building the framework and designing the software. 
+4. coding and implementstion- coding using programming languages 
 5. testing - examine the software for any bugs and glitches
-6.deploment- after testing the software is deployed ready for use.
-7.maintenance- frequents maintance are done to keep the software upto date.
+6. deploment- after testing the software is deployed ready for use.
+7. maintenance- frequents maintance are done to keep the software upto date.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Agile model is a software development approach that  focuses on delivering small, incremental improvements to a product rather than completing it in a single phase. Agile promotes adaptability to changing requirements and continuous customer feedback.Agile is ideal for projects requiring flexibility, frequent updates, and collaboration.
 Iterative Development – Work is broken into small, manageable iterations (or sprints).
 Customer Collaboration – Frequent interaction with stakeholders ensures the product meets expectations.
